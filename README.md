@@ -11,7 +11,7 @@ List of free software appliances for building a Security Operations Center (SOC)
 ## Network Traffic Logging
 * [Bro](https://www.bro.org/)
 
-## Endpoint Monitoring
+## Endpoint Visibility
 * [osquery](https://osquery.io/)
 
 ## Log Visualization
