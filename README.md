@@ -2,14 +2,14 @@
 List of free software appliances for building a Security Operations Center (SOC)
 
 ## Full Packet Capture Solution
-* [Moloch](https://github.com/aol/moloch) - Large scale, full packet capturing, indexing, and database system.
+* [Arkime](https://github.com/arkime/arkime) - Large scale, full packet capturing, indexing, and database system.
 
 ## IDS
 * [Snort](https://www.snort.org/)
 * [Suricata](https://github.com/OISF/suricata)
 
 ## Network Traffic Logging
-* [Bro](https://www.bro.org/)
+* [Zeek](https://github.com/zeek/zeek)
 
 ## Endpoint Visibility
 * [osquery](https://osquery.io/)
